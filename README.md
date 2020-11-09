@@ -2,6 +2,8 @@
 
 ![App Ideas Image](./screenshot.png)
 
+**Demo**: [Codesandbox](https://fyn0m.csb.app/)
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
