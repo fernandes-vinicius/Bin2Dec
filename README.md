@@ -1,6 +1,6 @@
 ## Bin2Dec
 
-![App Ideas Image](./screenshot.png)
+![App Image](./screenshot.png)
 
 **Demo**: [Codesandbox](https://fyn0m.csb.app/)
 
@@ -36,5 +36,3 @@ constraints:
 ## Useful links and resources
 
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
-
-[Idea from](https://github.com/florinpop17/app-ideas)
