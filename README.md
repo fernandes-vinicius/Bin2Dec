@@ -1,6 +1,6 @@
-# Bin2Dec
+## Bin2Dec
 
-Idea from [here](https://github.com/florinpop17/app-ideas)
+![App Ideas Image](./app-ideas.png)
 
 **Tier:** 1-Beginner
 
@@ -23,14 +23,15 @@ constraints:
 
 ## User Stories
 
--   [x] User can enter up to 8 binary digits in one input field
--   [x] User must be notified if anything other than a 0 or 1 was entered
--   [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
+-   [x] ~User can enter up to 8 binary digits in one input field
+-   [x] ~User must be notified if anything other than a 0 or 1 was entered
+-   [x] ~User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
 ## Bonus features
 
--   [x] User can enter a variable number of binary digits
+-   [x] ~User can enter a variable number of binary digits
 
 ## Useful links and resources
 
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
+[Idea from](https://github.com/florinpop17/app-ideas)
