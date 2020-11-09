@@ -1,6 +1,6 @@
 ## Bin2Dec
 
-![App Ideas Image](./app-ideas.png)
+![App Ideas Image](./screenshot.png)
 
 **Tier:** 1-Beginner
 
