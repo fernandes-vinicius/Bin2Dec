@@ -2,7 +2,7 @@
 
 Idea from [App Ideias](https://github.com/florinpop17/app-ideas)
 
-<!-- **Demo**: [Codesandbox](https://lrkm139qwl.codesandbox.io/) -->
+**Protoype**: [Figma](https://www.figma.com/file/GSQ3DHXp8LMdPrwXXrIMIJ/Bin2Dec?node-id=102%3A5)
 
 **Tier:** 1-Beginner
 
